@@ -1,5 +1,8 @@
 _repo: Reflections-on-the-Decline-of-Science-in-England-and-on-Some-of-Its-Causes_1216
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Babbage, Charles
@@ -10,6 +13,8 @@ creator:
     wikipedia: http://en.wikipedia.org/wiki/Charles_Babbage
 description: '"List of the members of the Royal Society, who have contributed to the
   Philosophical Transactions, or have been on the council": pp. [226]-228.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/1216#Reflections-on-the-Decline-of-Science-in-England-and-on-Some-of-Its-Causes
 gutenberg_bookshelf:
 - Science
 - United Kingdom
